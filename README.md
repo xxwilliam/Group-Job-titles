@@ -1,7 +1,8 @@
 # Group-Job-titles
 <!DOCTYPE html>
 <html>
-<body>  
+<head> 
+  
   <p><b>Group Job Titles:</b></p>
 
 <p>All four people in our group have different interests and different career paths. The job titles for our group’s ideal jobs are as following.
